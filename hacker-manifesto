@@ -1,0 +1,79 @@
+#!/bin/bash
+clear
+echo " "
+echo " The conscience of a hacker" | pv -qL 10
+echo " "
+echo " by" | pv -qL 10
+echo " "
+echo " The Menthor" | pv -qL 10
+echo " "
+echo " January 8, 1986." | pv -qL 10
+echo " "
+echo " "
+echo " Another one got caught today, it's all over the papers. 'Teenager" | pv -qL 10
+echo " arrested in computer crime scandal", "Hacker arrested after bank tampering'..." | pv -qL 10
+echo " Damn Kids. They're all alike." | pv -qL 10
+echo " "
+echo " But did you, in your three-piece psychology and 1950's technobrain," | pv -qL 10
+echo " ever take a look behind the eyes of a hacker? Did you ever wonder what" | pv -qL 10
+echo " made him tick, what forces shaped him, what may have molded him?" | pv -qL 10
+echo " I am a hacker, enter my world..." | pv -qL 10
+echo " Mine is a world that begins with school... I'm smarter than most of" | pv -qL 10
+echo " the other kids, this crap they teach us bores me..." | pv -qL 10
+echo " Damn underachiever.  They're all alike." | pv -qL 10
+echo " "
+echo " I'm in junior high or high school.  I've listened to teachers explain" | pv -qL 10
+echo " for the fifteenth time how to reduce a fraction. I understand it. 'No Ms." | pv -qL 10
+echo " Smith, I didn't show my work. I did it in my head..." | pv -qL 10
+echo " Damn kid. Probably copied it. They're all alike." | pv -qL 10
+echo " "
+echo " I made a discovery today. I found a computer. Wait a second, this is" | pv -qL 10
+echo " cool. It does what I want it to do. If it makes a mistake, it's because I" | pv -qL 10
+echo " screwed it up. Not because it doesn't like me..." | pv -qL 10
+echo " or feels threatened by me..." | pv -qL 10
+echo " or thinks I'm a smart ass..." | pv -qL 10
+echo " or doesn't like teaching and shouldn't be here..." | pv -qL 10
+echo " Damn kid. All he does is play games. They're all alike." | pv -qL 10
+echo " "
+echo " And then it happened... A door opened to a world... Rushing through" | pv -qL 10
+echo " the phone line like heroin through an addict's veins, an electronic pulse is" | pv -qL 10
+echo " sent out, a refuge from the day to day incompetencies is sought... A board is" | pv -qL 10
+echo " found." | pv -qL 10
+echo " 'This is it... This is where I belong...'" | pv -qL 10
+echo " I know everyone here... Even if I've never met them, never talked to" | pv -qL 10
+echo " them, may never hear from them again... I know you all..." | pv -qL 10
+echo " Damn kid. Tying up the phone line again. They're all alike..." | pv -qL 10
+echo " "
+echo " You bet your ass we're all alike... We've been spoon fed baby food at" | pv -qL 10
+echo " school when we hungered for steak... The bits of meat that you did let slip" | pv -qL 10
+echo " through were pre-chewed and tasteless. We've been dominated by sadists, or" | pv -qL 10
+echo " ignored by the apathetic. The few that had something to teach found us will-" | pv -qL 10
+echo " ing pupils, but those few are like drops of water in the desert." | pv -qL 10
+echo " "
+echo " This is our world now... The world of the electron and the switch, the" | pv -qL 10
+echo " beauty of the baud. We make use of a service already existing without paying" | pv -qL 10
+echo " for what could be dirt cheap if it wasn't run by profiteering gluttons, and" | pv -qL 10
+echo " you call us criminals. We explore... And you call us criminals. We seek" | pv -qL 10
+echo " after knowledge... and you call us criminals. We exist without skin color," | pv -qL 10
+echo " without nationality, without religious bias... And you call us criminals." | pv -qL 10
+echo " You build atomic bombs, you wage wars, you murder, you cheat, and lie to us" | pv -qL 10
+echo " and try to make us believe it's for our own good, yet we're the criminals." | pv -qL 10
+echo " "
+echo " Yes, I am a criminal. My crime is that of curiosity. My crime is" | pv -qL 10
+echo " that of judging people by what they say and think, not what they look like." | pv -qL 10
+echo " My crime is that of outsmarting you, something that you will never forgive me" | pv -qL 10
+echo " for." | pv -qL 10
+echo " "
+echo " I am a hacker, and this is my manifesto. You may stop this individual," | pv -qL 10
+echo " but you can't stop us all... After all, We're all alike." | pv -qL 10
+echo " "
+echo " The Mentor" | pv -qL 10
+echo " "
+echo " REFERENCE: The Mentor. 'The conscience of a hacker' on Phrack, Vol. One, Issue 7, Phile 3." | pv -qL 10
+echo " Avalaible in http://phrack.org/issues/7/3.html" | pv -qL 10
+sleep 3
+echo " done!"
+while true
+do
+	sh /usr/bin/hacker-manifesto
+done
