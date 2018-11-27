@@ -70,6 +70,7 @@ echo " "
 echo " The Mentor" | pv -qL 10
 echo " "
 echo " REFERENCE: The Mentor. 'The conscience of a hacker' on Phrack, Vol. One, Issue 7, Phile 3." | pv -qL 10
+sleep 3
 echo " Avalaible in http://phrack.org/issues/7/3.html" | pv -qL 10
 sleep 3
 echo " done!"
