@@ -40,7 +40,7 @@ and change the owner. For example:
 
 Finally, just run as:
 
-**$ hacker-manifesto
+**$ hacker-manifesto**
 
 You can stop it with:
 
