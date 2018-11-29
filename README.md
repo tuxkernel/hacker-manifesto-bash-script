@@ -18,7 +18,7 @@ Then download it:
 
 and unzip it:
 
-**$ unzip hacker-manifesto-bash-script-master.zip**
+**$ unzip master.zip**
 
 Navigate to directory:
 
@@ -36,7 +36,7 @@ and change the owner. For example:
 
 **$ sudo chown blackout:blackout /usr/bin/hacker-manifesto**
 
-NOTE: Change blackout:blackout for your user name.
+**NOTE:** Change **blackout:blackout** for your user name.
 
 Finally, just run as:
 
@@ -48,4 +48,4 @@ You can stop it with:
 
 That's all. Enjoy it!
 
-Tuxkernel...
+**Tuxkernel...**
