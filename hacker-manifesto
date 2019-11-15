@@ -1,4 +1,5 @@
 #!/bin/bash
+trap "exit" INT
 clear
 echo " "
 echo " The conscience of a hacker" | pv -qL 10
