@@ -44,7 +44,7 @@ Finally, just run as:
 
 You can stop it with:
 
-**CTRL + Z**
+**CTRL + C**
 
 That's all. Enjoy it!
 
